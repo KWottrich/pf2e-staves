@@ -1,17 +1,4 @@
-# This module is deprecated; for a V12+ replacement, try using [PF2e Dailies](https://github.com/reonZ/pf2e-dailies) instead.
-
------
-
-![All Downloads](https://img.shields.io/github/downloads/jessev14/pf2e-staves/total?style=for-the-badge)
-
-![Latest Release Download Count](https://img.shields.io/github/downloads/jessev14/pf2e-staves/latest/module.zip)
-[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fpf2e-staves&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=pf2e-staves)
-
-This module was funded by a commission. Donations help fund updates and new modules!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jessev14)
-
-# PF2e Staves
+# This module is deprecated; for a V12+ replacement, try using [PF2e Dailies](https://github.com/reonZ/pf2e-dailies) instead.# PF2e Staves
  
 This FoundryVTT module implements automations for Staves in the PF2e game system.
 
